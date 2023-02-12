@@ -1,6 +1,6 @@
   <p align="center">  
   <a href="https://secktoruserbot.onrender.com/">
-    <img alt="secktor docs" height="300" src="">
+    <img alt="secktor docs" height="300" src="https://avatars.githubusercontent.com/u/114360202?s=48&v=4">
     <h1 align="center">Knetbot MD Whatsapp bot</h1>
   </a>
 </p>
